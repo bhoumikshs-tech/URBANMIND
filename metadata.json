@@ -1,0 +1,6 @@
+{
+  "name": "UrbanMind AI",
+  "description": "AI-powered Smart Traffic Intelligence Platform predicting and optimizing urban mobility",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
